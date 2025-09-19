@@ -33,5 +33,5 @@ Download the repo and open it in Unity. You can find a sample scene in MG_Screen
 
 The smoothness is controlled by the material's smoothness property if you are using Unity's URP materials(Universal Render Pipeline/Lit, Universal Render Pipeline/LitComplex, ...). Metallic property controls how "reflective" is the material. 
 
-I'm considering a way to incorporate all the materials, not only materials in URP, to my SSR. But currently I think it will only interact with the material that has properties called "_Metallic" or "_Smoothness". 
+I'm considering a way to incorporate all the materials, not only materials in URP, to my SSR. Currently I think it will only interact with the material that has properties called "_Metallic" or "_Smoothness". 
 ![Cover Image](SSR.jpg)
